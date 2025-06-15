@@ -1,8 +1,6 @@
 ## 🏅 Certifications
 
-<div align="center">
-  
-<table border="0">
+<table>
   <tr>
     <td align="center" width="200">
       <a href="https://www.credly.com/badges/8353c0c2-6704-424c-99f0-e7f90779f347/public_url" target="_blank">
@@ -29,4 +27,4 @@
   </tr>
 </table>
 
-</div>
+---
